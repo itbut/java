@@ -9,7 +9,7 @@ import static std.DemoObject.startCalculator;
 
 /**
  *
- * @author java
+ * @author kate
  */
 public class DemoSystem {
 
